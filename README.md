@@ -1,26 +1,25 @@
 # typing_authenticator
 an application which authenticate trough typing pattern of person
 
-about :
-
-  This is a basic application of authentication which uses a machilearning concepts in working. This application identifies person with his typing speed .
+## about 
+This is a basic application of authentication which uses a machilearning concepts in working. This application identifies person with his typing speed .
   
-requirements to use:
+## requirements to use:
 
-  node:
+  ### node
   
     to run this application node should be installed in your pc
     
-  python requiements:
+  ### python requiements
   
     basic requiremet of python is havin python shell install in pc and packages pandas,numpy,sklearn.neighbors&sys should be       installed in python shell
     
-  browser:
+  ### browser
   
     better to run in chrome browser
     
 
-instructions to use:
+## instructions to use
 
   first run node serer at location of application with "node server.js".
   
@@ -28,7 +27,7 @@ instructions to use:
   
   
   
-warning:
+## warning
 
   use this application in the prospective of authentication (you should type just like yourself to authenticate)
   if you get a message "please enter correct value" then press backspace till message disappears 
