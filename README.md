@@ -32,3 +32,5 @@ This is a basic application of authentication which uses a machilearning concept
   use this application in the prospective of authentication (you should type just like yourself to authenticate)
   if you get a message "please enter correct value" then press backspace till message disappears 
   
+## note
+  planning to improve the application to recognise user while typing any paragraph instead of predtermined paragraph :-)
