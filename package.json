@@ -1,0 +1,17 @@
+{
+  "url": "https://github.com/abhilashreddyy/typing_authenticator",
+  "email": "abhilashreddyy1@gmail.com",
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "authentication application",
+  "main": "server.js",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "child-process": "^1.0.2",
+    "express": "^4.15.2",
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "path": "^0.12.7"
+  }
+}
