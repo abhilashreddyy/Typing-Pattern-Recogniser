@@ -10,6 +10,7 @@ This is a basic application of authentication which uses a machilearning concept
   
     to run this application node should be installed in your pc
     
+    
   ### python requiements
   
     basic requiremet of python is havin python shell install in pc and packages pandas,numpy,sklearn.neighbors&sys should be       installed in python shell
@@ -20,8 +21,8 @@ This is a basic application of authentication which uses a machilearning concept
     
 
 ## instructions to use
-
-  first run node serer at location of application with "node server.js".
+  first install dependencies at location of application by typing "npm install" in command line
+  then run node serer at location of application with "node server.js".
   
   This application uses an algorithm which uses a minimum of 5 test cases so for better performance input 7 test cases then to test this remove your name form name field then type in text field this will predict and display your name
   
