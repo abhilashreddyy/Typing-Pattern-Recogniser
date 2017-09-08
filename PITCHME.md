@@ -53,4 +53,11 @@
 * Accuracy is not very high in longer run. (Analyzing on only one parameter)
 
 ---
+## Future Scope
+* app lock is a good way of securing privacy
+* But it is annoying to always unlock application
+* But how about a intelligent system ???
+  * asks authentication according to usage pattern of mobile
+* Stores pattern of original user and asks authentication if pattern of usage is suspicious
+
 # Thank You
