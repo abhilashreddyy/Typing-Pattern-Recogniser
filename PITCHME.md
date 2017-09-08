@@ -21,16 +21,22 @@
 
 ---
 
-## How does our application work
+### How does our application work
 * Initially a webpage taking input from user 
 * Sending http request to server 
   * Post request including pattern collected from user 
 * Now server execute a call back function 
    * now python code is executed trough terminal
    * Runs machine learning model on data collected from user
++++
+
 * output generate is pushed into buffer stream 
 * Collected by call back at server side 
 * response is sent sent to webpage to display the predicted name of user
+
++++
+![graph representing collected data](https://www.google.co.in/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjal5rvi5XWAhUCzmMKHaFJDZIQjRwIBw&url=https%3A%2F%2Fdatasciencelab.wordpress.com%2F2013%2F12%2F27%2Ffinding-the-k-in-k-means-clustering%2F&psig=AFQjCNFd_URQtFngrkmyVoLCUmVRRO8pVQ&ust=1504943015134256)
+
 
 
 
