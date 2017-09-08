@@ -36,8 +36,7 @@
 
 +++
 
-<img src="https://www.google.co.in/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjal5rvi5XWAhUCzmMKHaFJDZIQjRwIBw&url=https%3A%2F%2Fdatasciencelab.wordpress.com%2F2013%2F12%2F27%2Ffinding-the-k-in-k-means-clustering%2F&psig=AFQjCNFd_URQtFngrkmyVoLCUmVRRO8pVQ&ust=1504943015134256" alt="Sync Request" style="width: 800px; height: 350;"/>
-
+![graph representing collected data](/images/Clusterplot.png)
 
 
 
