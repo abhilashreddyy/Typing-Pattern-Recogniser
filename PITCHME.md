@@ -59,5 +59,5 @@
 * But how about a intelligent system ???
   * asks authentication according to usage pattern of mobile
 * Stores pattern of original user and asks authentication if pattern of usage is suspicious
-
+---
 # Thank You
