@@ -4,20 +4,20 @@
 ## what is our project about ???
 
 +++
-* evey one has a unique typing pattern (agreed !!!)
-* typing pattern refers to time gap between typing two consecutive letters
-* this application can be used for authentication
-* main motive is to recognise patterns using machine learning
+* Every one has a unique typing pattern (AGREED !!!)
+* Typing pattern refers to time gap between typing two consecutive letters.
+* This application can be used for authentication.
+* Main motive is to recognise patterns using machine learning.
 
 ---
 ### Technologies used
-* languages
-  * web Languages (HTML,CSS,JAVASCRIPT)
+* Languages
+  * Web Languages (HTML,CSS,JAVASCRIPT)
   * Python
   * Node (Server language)
 
 * Machine learning algorithm
-  * K Nearest Neighbours (will discus about this in furthur slides)
+  * K Nearest Neighbours (will discuss about this in furthur slides)
 
 ---
 
