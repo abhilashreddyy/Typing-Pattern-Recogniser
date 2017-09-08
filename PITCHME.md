@@ -36,10 +36,20 @@
 
 +++
 
-![graph representing collected data](/images/Clusterplot.png)
-+++
 
 <img src="/images/Clusterplot.png" style="width: 600px; height: 800;" />
 
+---
+###Advantages
+* Recognize people with their typing pattern.
+* Authenticate logins with typing pattern.
+* Very less space is required.
+
+
+---
+###Disadvantages
+* Data needs to be updated after regular intervals.
+* Person can voluntarily change his typing pattern.
+*  
 
 
