@@ -17,22 +17,22 @@
   * Node (Server language)
 
 * Machine learning algorithm
-  * K Nearest Neighbours (will discuss about this in furthur slides)
+  * K Nearest Neighbours (Discussed in furthur slides)
 
 ---
 
 ### How does our application work
 * Initially a webpage taking input from user 
 * Sending http request to server 
-  * Post request including pattern collected from user 
+  * Post request including pattern collected from user
 * Now server execute a call back function 
-   * now python code is executed trough terminal
+   * Now python code is executed trough terminal
    * Runs machine learning model on data collected from user
 +++
 
-* output generate is pushed into buffer stream 
-* Collected by call back at server side 
-* response is sent sent to webpage to display the predicted name of user
+* Output generate is pushed into buffer stream. 
+* Collected by call back at server side .
+* Response is sent sent to webpage to display the predicted name of user.
 
 +++
 
@@ -43,14 +43,14 @@
 ### Advantages
 * Recognize people with their typing pattern.
 * Authenticate logins with typing pattern.
-* Very less space is required.
+* Less space is required compared to other authentication methods.
 
 
 ---
 ### Disadvantages
 * Data needs to be updated after regular intervals.
 * Person can voluntarily change his typing pattern.
-* Accuracy is not very high in longer run. 
+* Accuracy is not very high in longer run. (Analyzing on only one parameter)
 
 ---
 # Thank You
