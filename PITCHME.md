@@ -52,4 +52,5 @@
 * Person can voluntarily change his typing pattern.
 * Accuracy is not very high in longer run. 
 
-
+---
+# Thank You
