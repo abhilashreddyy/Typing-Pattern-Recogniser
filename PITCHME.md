@@ -37,6 +37,9 @@
 +++
 
 ![graph representing collected data](/images/Clusterplot.png)
++++
+
+<img src="/images/Clusterplot.png" style="width: 450px; height: 600;" />
 
 
 
