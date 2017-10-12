@@ -12,9 +12,11 @@ This is a basic application of authentication which uses a machilearning concept
     
     
   ### python requiements
-  ```sudo pip install numpy
-    sudo pip install pandas
-    sudo pip install sklearn ```
+  ```
+  sudo pip install numpy
+  sudo pip install pandas
+  sudo pip install sklearn 
+  ```
     
   
     
