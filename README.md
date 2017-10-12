@@ -12,7 +12,10 @@ This is a basic application of authentication which uses a machilearning concept
     
     
   ### python requiements
-  
+  ```sudo pip install numpy
+    sudo pip install pandas
+    sudo pip install sklearn ```
+    
     basic requiremet of python is havin python shell install in pc and packages pandas,numpy,sklearn.neighbors&sys should be       installed in python shell
     
   ### browser
